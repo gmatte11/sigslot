@@ -1,5 +1,5 @@
 # sigslot
-A small library test for signals and slot
+A small test library for signals and slot
 
 ## Compilation
 To use the header file, a C++11 compatible compiler is needed.
